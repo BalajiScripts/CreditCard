@@ -17,7 +17,7 @@ The Credit Card Fraud Detection System is a machine learning project that identi
  🛠️ Technologies Used
 
 * Language: Python
-* Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* Libraries: Pandas, NumPy, Scikit-learn
 * Tools: Jupyter Notebook / Google Colab
 * Version Control: Git & GitHub
 
