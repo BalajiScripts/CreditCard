@@ -9,8 +9,8 @@ The Credit Card Fraud Detection System is a machine learning project that identi
 ✨ Features
 
 * 📊 Data preprocessing and handling imbalanced datasets
-* 🤖 Machine learning models (Logistic Regression, Random Forest, XGBoost, etc.)
-* 📈 Accuracy, precision, recall, and F1-score evaluation
+* 🤖 Machine learning models (Logistic Regression, etc.)
+* 📈 Model Training, Model Evaluation
 * 🔍 Real-time fraud detection simulation
 * 📂 Dataset integration (e.g., Kaggle Credit Card Dataset)
 
